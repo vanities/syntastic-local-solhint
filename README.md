@@ -8,7 +8,7 @@ Installation Instructions
 Using [vim plugged](https://github.com/junegunn/vim-plug) you just need to add:
 
 ```
-Plug 'sohkai/syntastic-local-solhint.vim'
+Plug 'sohkai/syntastic-local-solhint'
 ```
 
 Inspired By
